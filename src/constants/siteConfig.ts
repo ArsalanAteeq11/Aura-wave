@@ -10,5 +10,6 @@ export const siteConfig = {
       facebook: "/",
       instagram: "/",
       tiktok: "/",
+      whatsapp: "+923123456789"
     },
 };

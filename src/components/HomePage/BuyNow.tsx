@@ -31,7 +31,7 @@ const BuyNow = ({ product, headerRender = false }: BuyNowProp) => {
         transition={{ duration: 0.6 }}
         className="w-[85px] text-[12px] text-muted-foreground text-center"
       >
-        Aura Mate 80
+        Aura Oulm 1349
       </motion.div>
     );
   }
